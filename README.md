@@ -6,7 +6,9 @@ Simple Voice Support Bot to play music or music/info in your waiting room
 
 IMPORTANT!
 
-You can add your mp3 under /assets (Important!: the file must be named audio.mp3!)
+create a folder called "assets" and place your mp3 file there
+
+You can add the mp3 under /assets (Important!: the file must be named audio.mp3!)
 
 
 Install the following packages in your CMD console!
