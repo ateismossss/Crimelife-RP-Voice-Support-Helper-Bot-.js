@@ -2,7 +2,7 @@ Crimelife/RP Voice Support Bot
 
 Simple Voice Support Bot to play music or music/info in your waiting room
 
-
+hallo
 
 IMPORTANT!
 
