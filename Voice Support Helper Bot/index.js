@@ -52,7 +52,6 @@ client.on('guildMemberRemove', () => {
     memberCount--;
 });
 
-// === VOICE STATE UPDATE ===
 client.on('voiceStateUpdate', (oldState, newState) => {
     const targetChannelId = config.voiceChannelId;
 
